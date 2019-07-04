@@ -1,0 +1,38 @@
+ 
+* {
+                margin: 0;
+                padding :50;
+
+     }
+
+                nav ul{
+                overflow: hidden;
+                list-style: none;
+                background:#8f8181;
+                margin:10;
+                padding:50;
+                width: 100%;
+                height: 80%;
+            }
+            nav ul :hover {
+                background: #333;
+                border-radius:50%; 
+            }
+            nav ul li {
+                float:left;
+            }
+            nav ul li a {
+                text-decoration: none;
+                color: white;
+                padding: 16px;
+                display: block;
+         
+    }
+    p {
+        text-align: center;
+            margin:50px;
+            padding:30px; 
+            color: #802525;
+        }
+
+
